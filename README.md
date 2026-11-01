@@ -85,7 +85,7 @@
 ---
 
 ### UrbanEdge | 2026.10
-> Brand web and kiosk simulator for an unmanned self photo studio in Hwangnidan-gil, Gyeongju
+> Brand web and kiosk simulator for an unmanned self photo studio in Hwangridan-gil, Gyeongju
 
 - **Context**: World Gyeongju Forum Impact Campus workshop, Hanyang University team 5.
 - **Role**: UX research and web development.
